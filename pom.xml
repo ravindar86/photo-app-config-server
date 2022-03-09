@@ -40,7 +40,7 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- below 2 dependencies for producing messages -->
+        <!-- below 2 dependencies for producing messages (Rabbit MQ) -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-bus-amqp</artifactId>
